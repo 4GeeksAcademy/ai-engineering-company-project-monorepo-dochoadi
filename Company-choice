@@ -1,0 +1,17 @@
+Elijo Nexova porque es una consultora que da servicio a otras empresas (como donde yo trabajo), así que sus problemas me resultan familiares. Su equipo de soporte al cliente no cumple los tiempos de respuesta prometidos y no tiene un sistema que les ayude a resolver más rápido. Quiero usar el curso para construir justo ese tipo de herramienta.
+
+Departamentos que me interesan
+
+Me interesa Atención al Cliente, porque responden a mano y tardan más de lo que deberían. También Ventas, porque no hacen seguimiento de sus clientes potenciales y pierden oportunidades por eso.
+
+Mi idea de Agente de IA: HelpDesk Support Chatbot
+
+Un chatbot que atiende las incidencias que llegan al equipo de soporte, antes de que las vea una persona.
+
+El cliente escribe su problema por chat o email.
+El chatbot busca en una base de conocimiento (usando RAG) si ya existe una respuesta parecida a un problema anterior.
+Si encuentra una respuesta clara, la responde directamente — esto sería el Nivel 1.
+Si no encuentra nada útil o el caso es complicado, lo pasa a una persona del equipo de soporte — el Nivel 2.
+Cuando esa persona resuelve el caso, su solución se guarda en la base de conocimiento. Así, la próxima vez que llegue un problema parecido, el chatbot ya lo sabe resolver solo.
+
+Con el tiempo, el chatbot va resolviendo más casos por sí mismo, porque aprende de cada caso que resuelve el equipo humano.
